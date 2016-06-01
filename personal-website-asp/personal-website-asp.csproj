@@ -70,7 +70,12 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\style.css" />
+    <Content Include="images\ipad-bg.jpg" />
+    <Content Include="images\mac-bg.jpg" />
+    <Content Include="images\notebook-bg.jpg" />
     <Content Include="packages.config" />
+    <Content Include="Scripts\custom.js" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -100,6 +105,7 @@
     <None Include="Scripts\jquery-2.2.3.intellisense.js" />
     <Content Include="Scripts\jquery-2.2.3.js" />
     <Content Include="Scripts\jquery-2.2.3.min.js" />
+    <Content Include="Scripts\simple-text-rotator.js" />
     <Content Include="user_controls\navbar.ascx" />
     <Content Include="Web.config" />
     <Content Include="Site.Master" />
@@ -135,6 +141,7 @@
       <DependentUpon>navbar.ascx</DependentUpon>
     </Compile>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

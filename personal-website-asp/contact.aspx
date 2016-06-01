@@ -24,8 +24,7 @@
                 </div>
 
             </div>
-            <div class="col-md-6">
-                
+            <div class="col-md-6 contact-form">
                 <div class="form-group">
                     <label class="control-label" for="form-group-input">First Name</label>
                     <asp:TextBox runat="server" CssClass="form-control" ID="FirstNameTextBox" placeholder="First Name" required="true"></asp:TextBox>
