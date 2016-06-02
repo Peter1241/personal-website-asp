@@ -16,16 +16,16 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <!-- Start Text  -->
-                    <h3>I am NO ONE</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquando posse recte fieri dicunt nulla expectata nec quaesita voluptate. Quae qui non vident, nihil umquam magnum ac cognitione dignum amaverunt.</p>
+                    <h3>Freelance Web Developer</h3>
+                    <p>I am a freelance, and self taught web developer. Web / UI designer with over 5 years experience in HTML, CSS, HTML5, CSS3, PSD to xHTML/HTML5 conversion, Jquery, Php, Opencart, Prestashop, Wordpress, Joomla, etc.</p>
                     <ul class="tick-list">
-                        <li><i class="fa fa-check"></i>Cur igitur easdem res, inquam, Peripateticis dicentibus  nullum est.</li>
-                        <li><i class="fa fa-check"></i>Nam memini etiam quae nolo, oblivisci non possum quae volo.</li>
-                        <li><i class="fa fa-check"></i>Verum tamen cum de rebus grandioribus dicas, ipsae res verba rapiunt.</li>
+                        <li><i class="fa fa-check"></i>I create unique and creative websites.</li>
+                        <li><i class="fa fa-check"></i>I love web development and the web world.</li>
+                        <li><i class="fa fa-check"></i>I am available for hire! Get in touch.</li>
                     </ul>
-                    <p><strong>Qui autem esse poteris, nisi te amor ipse ceperit? Et quidem iure fortasse, sed tamen non gravissimum est testimonium multitudinis.</strong></p>
+                    <p><strong>Minimalistic approach is the best way to create awesomeness!</strong></p>
                     <hr>
-                    <p><a href="#" class="blue-btn">Learn More</a></p>
+                    <p><a href="contact.aspx" class="blue-btn">Get in Touch</a></p>
                     <!-- End Text  -->
                 </div>
                 <div class="col-lg-6 col-md-6">

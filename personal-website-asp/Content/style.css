@@ -554,7 +554,7 @@ Main Header
 /* ================================
 Contact
  =================================== */
-.contact-form input[type="text"],.contact-form textarea {
+.contact-form input[type="email"], .contact-form input[type="text"],.contact-form textarea {
     color: #818181;
     border: 1px solid #ddd;
     outline: none;
@@ -566,6 +566,8 @@ Contact
     -moz-transition: all .2s ease-in-out;
     -webkit-transition: all .2s ease-in-out;
     -o-transition: all .2s ease-in-out;
+    height: auto;
+    border-radius: 0;
 }
 
 .contact-form textarea {

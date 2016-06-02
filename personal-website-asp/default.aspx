@@ -35,12 +35,4 @@
 			<!-- End Slide 3  -->
 		</div>
     </div>
-
-    <section id="home-banner" class="section">
-	    <div class="row">
-		    <div class="col-md-6">
-
-		    </div>
-	    </div>
-    </section>
 </asp:Content>

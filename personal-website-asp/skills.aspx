@@ -19,7 +19,7 @@
                   <!-- Start Service Details  -->
                   <div class="services-list">
                     <i class="fa fa-asterisk fa-5x"></i><!-- Service Icon  -->
-                    <h4>Responsive</h4><!-- Service Title  -->
+                    <h4>Web Development</h4><!-- Service Title  -->
                     <p>Lorem ipsum dolor sit amet, mutat graeco volumus ad eam.</p><!-- Service Description  -->
                   </div>
                   <!-- End Service Details  -->
@@ -27,7 +27,7 @@
                 <div class="col-lg-6 col-md-6">
                   <div class="services-list">
                     <i class="fa fa-cog fa-5x"></i>
-                    <h4>User Friendly</h4>
+                    <h4>MEAN Stack</h4>
                     <p>Lorem ipsum dolor sit amet, mutat graeco volumus ad eam.</p>
                   </div>
                 </div>
@@ -37,7 +37,7 @@
                 <div class="col-lg-6 col-md-6">
                   <div class="services-list">
                     <i class="fa fa-leaf fa-5x"></i>
-                    <h4>HTML5</h4>
+                    <h4>NodeJs</h4>
                     <p>Lorem ipsum dolor sit amet, mutat graeco volumus ad eam.</p>
                   </div>
                 </div>
@@ -53,14 +53,14 @@
                 <div class="col-lg-6 col-md-6">
                   <div class="services-list">
                     <i class="fa fa-subscript fa-5x"></i>
-                    <h4>w3c Compliant</h4>
+                    <h4>Wordpress</h4>
                     <p>Lorem ipsum dolor sit amet, mutat graeco volumus ad eam.</p>
                   </div>
                 </div>
                 <div class="col-lg-6 col-md-6">
                   <div class="services-list">
                     <i class="fa fa-undo fa-5x"></i>
-                    <h4>Minimal</h4>
+                    <h4>iOS development</h4>
                     <p>Lorem ipsum dolor sit amet, mutat graeco volumus ad eam.</p>
                   </div>
                 </div>

@@ -74,6 +74,12 @@
     <Content Include="Content\font-awesome.min.css" />
     <Content Include="Content\style.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="images\1.jpg" />
+    <Content Include="images\2.jpg" />
+    <Content Include="images\3.jpg" />
+    <Content Include="images\4.jpg" />
+    <Content Include="images\5.jpg" />
+    <Content Include="images\6.jpg" />
     <Content Include="images\ipad-bg.jpg" />
     <Content Include="images\mac-bg.jpg" />
     <Content Include="images\notebook-bg.jpg" />
@@ -82,6 +88,7 @@
     <Content Include="images\shot2.jpg" />
     <Content Include="images\shot3.jpg" />
     <Content Include="packages.config" />
+    <Content Include="portfolio.aspx" />
     <Content Include="profile.aspx" />
     <Content Include="Scripts\custom.js" />
     <Content Include="Scripts\jquery-2.2.3.min.map" />
@@ -138,6 +145,13 @@
     </Compile>
     <Compile Include="default.aspx.designer.cs">
       <DependentUpon>default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="portfolio.aspx.cs">
+      <DependentUpon>portfolio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="portfolio.aspx.designer.cs">
+      <DependentUpon>portfolio.aspx</DependentUpon>
     </Compile>
     <Compile Include="profile.aspx.cs">
       <DependentUpon>profile.aspx</DependentUpon>
