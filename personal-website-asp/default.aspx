@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="personal_website_asp._default" %>
+﻿<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="default.aspx.cs" Inherits="personal_website_asp._default" %>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
     <div id="main-slider" class="carousel slide carousel-fade" data-ride="carousel" data-interval="false">
@@ -33,7 +33,9 @@
                 </div>
             </div>
 			<!-- End Slide 3  -->
-		</div>    </div>
+		</div>
+    </div>
+
     <section id="home-banner" class="section">
 	    <div class="row">
 		    <div class="col-md-6">

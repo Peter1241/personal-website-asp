@@ -19,9 +19,4 @@ $(document).ready(function () {
         pause: 'hover' // Carousel slider pause on mouse hover
     })
 
-    $(".menu-collapsed").click(function () {
-        $(this).toggleClass("menu-expanded");
-    });
-
-    $("a[data-gal^='prettyPhoto']").prettyPhoto();
 });
