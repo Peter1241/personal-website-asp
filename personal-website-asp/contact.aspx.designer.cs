@@ -8,11 +8,10 @@
 //------------------------------------------------------------------------------
 
 namespace personal_website_asp {
-
-
-    public partial class contact
-    {
-
+    
+    
+    public partial class contact {
+        
         /// <summary>
         /// FirstNameTextBox control.
         /// </summary>
@@ -21,7 +20,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox FirstNameTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator1 control.
         /// </summary>
@@ -30,7 +29,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
-
+        
         /// <summary>
         /// LastNameTextBox control.
         /// </summary>
@@ -39,7 +38,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox LastNameTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator2 control.
         /// </summary>
@@ -48,7 +47,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
-
+        
         /// <summary>
         /// EmailTextBox control.
         /// </summary>
@@ -57,7 +56,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox EmailTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator3 control.
         /// </summary>
@@ -66,7 +65,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
-
+        
         /// <summary>
         /// ContactNumberTextBox control.
         /// </summary>
@@ -75,7 +74,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox ContactNumberTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator4 control.
         /// </summary>
@@ -84,7 +83,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator4;
-
+        
         /// <summary>
         /// MessageTextBox control.
         /// </summary>
@@ -93,7 +92,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox MessageTextBox;
-
+        
         /// <summary>
         /// RequiredFieldValidator5 control.
         /// </summary>
@@ -102,7 +101,7 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator5;
-
+        
         /// <summary>
         /// SendButton control.
         /// </summary>
@@ -111,5 +110,14 @@ namespace personal_website_asp {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button SendButton;
+        
+        /// <summary>
+        /// lblMsg control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lblMsg;
     }
 }
